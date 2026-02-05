@@ -1,0 +1,53 @@
+# תומר Barber shop — Generative Engine Optimization Map
+
+> A שירותי טיפוח וספרות business.
+
+---
+
+## Pages
+
+### Home
+https://barber-shop-481d1388.zappy5.app
+
+### Services & Pricing
+https://barber-shop-481d1388.zappy5.app/services
+
+### About
+https://barber-shop-481d1388.zappy5.app/about
+
+### Contact
+https://barber-shop-481d1388.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://barber-shop-481d1388.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://barber-shop-481d1388.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://barber-shop-481d1388.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About תומר Barber shop
+תומר Barber shop is a business in the שירותי טיפוח וספרות industry.
+
+## Target Audience
+גברים שצריכים תספורת, גילוח, שטיפת שיער
+
+## Industry
+שירותי טיפוח וספרות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://barber-shop-481d1388.zappy5.app/sitemap.xml
+- **Robots.txt**: https://barber-shop-481d1388.zappy5.app/robots.txt

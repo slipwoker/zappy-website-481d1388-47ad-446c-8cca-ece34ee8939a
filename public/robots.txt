@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://barber-shop-481d1388.zappy5.app/sitemap.xml
